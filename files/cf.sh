@@ -1,11 +1,17 @@
 #!/bin/bash# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+
+# Develovers » rokojarcok࿐
+
+# Email      » rokohuut@gmail.com@gmail.com
+
+# telegram   » https://t.me/rokojarcok
+
+# whatsapp   » wa.me/+6287792941237
+
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# rokojarcok࿐
 
 #random
 apt install jq curl -y
