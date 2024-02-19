@@ -1,12 +1,18 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+
+# Develovers » rokojarcok࿐
+
+# Email      » rokohuut@gmail.com@gmail.com
+
+# telegram   » https://t.me/rokojarcok
+
+# whatsapp   » wa.me/+6287792941237
+
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# rokojarcok࿐
 
 Green="\e[92;1m"
 RED="\033[31m"
@@ -92,7 +98,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/"
+    REPO="https://raw.githubusercontent.com/rokojarcok/Autoscript/GM/"
 
 ####
 start=$(date +%s)
@@ -279,7 +285,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/Register"
+izinsc="https://raw.githubusercontent.com/rokojarcok/Autoscript/GM/Register"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -316,8 +322,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6735684125"
-KEY="6501332793:AAFqR8ie_r1m6hLquZdMw7_wCAVp3hcbp20"
+CHATID="6479897007"
+KEY="6778612908:AAG_7ZJhiWXPj-OGoytocB3b1r5AKuyHCmI"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
@@ -332,7 +338,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>Gemilangkinasih࿐</b>
+<b>rokojarcok࿐</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+6281226229275"}]]}' 
@@ -542,7 +548,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service Limit IP & Quota"
-wget -q https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
+wget -q https://raw.githubusercontent.com/rokojarcok/Autoscript/GM/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
 
 # // Installing UDP Mini
 mkdir -p /usr/local/kyt/

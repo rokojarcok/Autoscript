@@ -13,7 +13,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium by Baimstore
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/rokojarcok/Autoscript/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
@@ -21,7 +21,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/rokojarcok/Autoscript/GM/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ## TESTED ON OS

@@ -1,12 +1,18 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+
+# Develovers » rokojarcok࿐
+
+# Email      » rokohuut@gmail.com@gmail.com
+
+# telegram   » https://t.me/rokojarcok
+
+# whatsapp   » wa.me/+6287792941237
+
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# rokojarcok࿐
 
 clear
 fun_bar() {
@@ -36,7 +42,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/menu/menu.zip
+    wget https://raw.githubusercontent.com/rokojarcok/Autoscript/GM/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
